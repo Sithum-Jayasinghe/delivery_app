@@ -19,5 +19,5 @@ A Python-based delivery tracking application with AI time prediction and interac
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Sithum-Jayasinghe/delivery_app
+git clone https://github.com/Sithum-Jayasinghe/delivery_app.git
 cd smart-delivery-tracker
